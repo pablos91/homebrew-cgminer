@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Cgminer < Formula
+class CgminerAT3123 < Formula
   desc ""
   homepage ""
   url "https://github.com/ckolivas/cgminer/archive/v3.12.3.zip"
